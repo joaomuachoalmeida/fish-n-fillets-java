@@ -7,7 +7,7 @@ Versão simplificada do jogo de puzzle *Fish n Fillets*, desenvolvida em Java no
 
 ## Como correr
 
-1. Abre o projeto num IDE (Eclipse ou IntelliJ) com o JDK **[indicar a versão que usaste]**.
+1. Abre o projeto num IDE (Eclipse ou IntelliJ) com o JDK **[JDK 17]**.
 2. Corre a classe `pt.iscte.poo.game.Main`.
 
 O jogo lê os níveis (`rooms/`) e as imagens (`images/`) através de caminhos relativos, por isso tem de ser executado a partir da **raiz do projeto**.
